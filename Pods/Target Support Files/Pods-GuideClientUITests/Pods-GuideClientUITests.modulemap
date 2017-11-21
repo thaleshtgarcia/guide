@@ -1,0 +1,6 @@
+framework module Pods_GuideClientUITests {
+  umbrella header "Pods-GuideClientUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
